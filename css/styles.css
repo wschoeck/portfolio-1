@@ -11,6 +11,22 @@ p {
     margin-left: 80px;
 }
 
+p {
+  width: 40em;
+  padding-left: 20px;
+}
+
+h1 {
+  width: 40em;
+  padding-left: 20px;
+}
+
+h3 {
+  width: 40em;
+  padding-left: 20px;
+  color: rgb(0, 153, 51)
+}
+
 .bgpurple {
     background-color: rgb(153,50,204)
 }
