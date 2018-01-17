@@ -35,3 +35,11 @@ h3 {
     width:100%;
     max-width:auto !important;
 }*/
+
+iframe:focus {
+    outline: none;
+}
+
+iframe[seamless] {
+    display: block;
+}
